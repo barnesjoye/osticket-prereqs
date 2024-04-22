@@ -80,11 +80,16 @@ CGI and Common HTTP Features </b>
 <img src= "https://i.imgur.com/ujfPruW.png"/>
 
 <b>10. Reload IIS (Open IIS, Stop and Start the server)</b>
-   - Download/Install osTicket
-   - Extract and copy “upload” folder to c:\inetpub\wwwroot
-   - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+<b>11. Download and install OSTicket<b/>
+   - Extract and copy the “upload” folder to c:\inetpub\wwwroot
+   - Within c:\inetpub\wwwroot, Rename the “upload” folder to “osTicket”
+<img src= "
 
 <b>11. Reload IIS (Open IIS, Stop and Start the server)</b>
+
+	-	Open IIS
+ 	-	Stop and then Restart the system
 
 <b>12. Go to sites -> Default -> osTicket</b>
    - Click "Browse *.80" on the right
